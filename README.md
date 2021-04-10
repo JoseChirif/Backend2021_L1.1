@@ -2,3 +2,4 @@
 - Pedro Pablo Armando
 - Maria Pia Palacios
 - Julissa Antonieta de las Nieves
+- Maria José Vilchez
